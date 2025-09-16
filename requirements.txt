@@ -5,3 +5,5 @@ streamlit
 chromadb
 python-dotenv
 google-generativeai
+matplotlib
+seaborn
