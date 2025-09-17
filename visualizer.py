@@ -1,4 +1,3 @@
-from mcp.server.fastmcp import FastMCP
 import google.generativeai as genai
 import os
 from dotenv import load_dotenv
@@ -9,9 +8,6 @@ import datetime
 load_dotenv()
 genai.configure(api_key=os.environ.get('GOOGLE_API_KEY'))
 
-mcp = FastMCP("Data Visualizer")
-
-@mcp.tool()
 def generate_visualization(user_input):
     prompt = f"""
 Generate an executable Python script for the given query: {user_input} that:
@@ -102,5 +98,4 @@ plt.show()
 
     return f"{timestamp}.png"
 
-if __name__ == "__main__":
-    mcp.run(transport="stdio")
+
