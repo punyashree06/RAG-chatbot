@@ -31,10 +31,7 @@ def delete_chat_history():
             del db["messages"]
 
 messages = load_chat_history()
-sys_prompt = ("You are a immersive story teller, whatever the user gives as input you will generate each scene per time with the output "
-              "along with the  voices in the character of the scene and one image relating to the scene, "
-              "and the text of the scene. You may add games to the scene which can add more to "
-              "the storyline.")
+sys_prompt = ("You are an expert in Long term Settlemet cases. You have an subagent called ")
 if not messages:
     messages.append({"role": "user", "content": sys_prompt})
 
@@ -55,11 +52,11 @@ async def main(user_input):
 
     async with MultiServerMCPClient(
         {
-            "Image_generator": {
-                "command": r"D:\mcp_02\.venv\Scripts\python.exe",
-                "args": [r"server\visualizer.py"],
+            "dataagent": {
+                "command": r"/home/codespace/.python/current/bin/python",
+                "args": [r"server\dataagent.py"],
                 "transport": "stdio",
-            }  
+            } 
         }
     ) as client:
         agent = create_react_agent(model, client.get_tools())
