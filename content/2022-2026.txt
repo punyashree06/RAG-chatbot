@@ -556,31 +556,28 @@ i.e. 70% of INR 13,500/- shall be INR 9,450/- (Rupees Nine Thousand
 Four Hundred and Fifty only). The component wise breakup of INR
 9,450/- for the overall settlement period is as given below.
 
-Components | Amount (INR) |
+| Components                 | Amount (INR) |
+|---------------------------|--------------|
+| General Increase #        | 2677.50      |
+| Service weightage         | 1102.50      |
+| G03/G04 grade correction* | 32.10        |
+| Other Allowances #        | 5537.90      |
+| MJV Allowance**           | 100.00       |
+| **Total**                 | **9,450.00** |
 
-General Increase #
-Service weightage
-G03/G04 grade correction*
-Other Allowances #
-MJV Allowance**
-Total
 
 Further, these components (#) shall be distributed in a staggered
 manner based on the percentage mentioned below:
 
-Period %
+| Year    | Period                        | %    |
+|---------|-------------------------------|------|
+| II Year | 01.12.2022 to 30.11.2023      | 40%  |
+| III Year| 01.12.2023 to 30.11.2024      | 40%  |
+| IV Year | 01.12.2024 to 30.11.2025      | 20%  |
+| V Year  | 01.12.2025 to 31.12.2026      | Nil  |
 
-01.12.2022 to 30.11.2023 | 40%
-01.12.2023 to 30.11.2024 | 40
-
-01.12.2024 to 30.11.2025 | 20%
-01.12.2025 to 31.12.2026
 
 *
-
-B
-
-t
 
 === PAGE 14 ===
 
@@ -601,18 +598,12 @@ Hundred and Seventy-Seven Fifty Paise only) per month inclusive of all
 applicable derivatives and the same shall be paid in a staggered manner
 as detailed below:
 
-levine @! Derivatives a saan
-cars7 ee geniod AHRA | PF@ | Gratuity@ | Total
-@ 25% 10% 5%
-01.12.2022
-ll Year to 292.50/- 73.13 29.25 14.63 409.50
-30.11.2023
-01.12.2023
-Ill Year to 1 ,080/- 270/- 108/- 54/-
-30.11.2024
-01 12. 2024
-IV Year 540/- 135/- 756.00
-30. ri "2025
+| \*\*Year | Period                   | Increase | AHRA @ 25% | PF @ 10% | Gratuity @ 5% | Total\*\* |
+| -------- | ------------------------ | -------- | ---------- | -------- | ------------- | --------- |
+| II Year  | 01.12.2022 to 30.11.2023 | 292.50/- | 73.13      | 29.25    | 14.63         | 409.50    |
+| III Year | 01.12.2023 to 30.11.2024 | 1,080/-  | 270/-      | 108/-    | 54/-          | 1,512.00  |
+| IV Year  | 01.12.2024 to 30.11.2025 | 540/-    | 135/-      | 54/-     | 27/-          | 756.00    |
+
 
 This General increase amount shall be merged with Personal Pay as
 applicable to the individual workman. This Personal Pay will continue
@@ -623,33 +614,17 @@ applicable, but does not qualify for Incentive payments.
 3.2. Service Weightage: All permanent workmen who are on rolls of the
 company as on date of signing of this settlement and have put in a
 minimum service of one year as on 01.12.2022 will be eligible for service
-weightage at the rate of INR 35/- per year of completed service. For this
+weightage at the rate of INR 35/- per year of completed service. For this purpose, completed service will be reckoned as on 01.12.2022. This amount will be payable with effect from 01.12.2022. 
 
-x
+| \*\*Year | Increase | AHRA @ 25% | PF @ 10% | Gratuity @ 5% | TOTAL\*\* |
+| -------- | -------- | ---------- | -------- | ------------- | --------- |
+| II Year  | 787.50   | 196.88     | 78.75    | 39.38         | 1102.50   |
 
-we
 
 === PAGE 15 ===
 
-787.50 196.88 78.75 39.38
-
-purpose, completed service will be reckoned as on 01.12.2022. This
-amount will be payable with effect from 01.12.2022.
-
-Derivatives
-
-AHRA @ 25% | PF @ 10% | Gratuity @ 5%
-
-Increase
-
-1102.50
 
 Note: The above Service weightage amount is indicative which is arrived for an
-
-3.3
-
-3.4
-
 average completed service of 22.5 years as on 01.12.2022.
 
 This Service Weightage placed in individual’s Personal Pay will continue
@@ -682,12 +657,6 @@ with effect from 01.12.2024, this amount will be revised to INR 3,698/-
 month. The practice of prorating of Conveyance Allowance shall
 
 === PAGE 16 ===
-
-3.5
-
-3.6
-
-3.7
 
 continue as per Clause No. 11, Part II, of the Memorandum of Settlement
 dated 19.08.1998.
@@ -728,10 +697,9 @@ Hundred and Thirty only) per month. Further, with effect from
 01.12.2024, this amount will be revised to INR 3,297.90/- (Rupees Three
 Thousand Two Hundred and Ninety-Seven Ninety Paise only) per
 month. The practice of prorating of Education Subsidy shall continue as
-per Clause No. 13, Part Il, of the Memorandum of Settlement dated
+per Clause No. 13, Part Il, of the Memorandum of Settlement dated 19.08.1998
 
-are. Wee
-a ~\
+
 
 === PAGE 17 ===
 
@@ -743,23 +711,12 @@ Thousand and Fifty only) will be distributed as per the below mentioned
 table. This will be effective from the date of signing of the settlement and
 subsequent incentive period.
 
-Part | Particulars
-Pare [Guar Relted
+| \*\*Part | Particulars                                                                                                                | %   | Amount\*\*  |
+| -------- | -------------------------------------------------------------------------------------------------------------------------- | --- | ----------- |
+| Part-A   | Quantity Related                                                                                                           | 70% | INR 2,835/- |
+| Part-B   | Value stream performance (5S, Zero Kms complaint, value stream productivity, value stream attendance and IDC), **Part B1** | 20% | INR 810/-   |
+| Part-B   | Individual Performance evaluation (PMS), **Part B2**                                                                       | 10% | INR 405/-   |
 
-Value stream performance (5S,
-
-Zero Kms complaint, value stream
-B productivity, value stream
-
-attendance and IDC), Part B1
-
-Individual Performance evaluation | 10% | INR 405/-
-(PMS), Part B2
-
-| % | Amount _
-2
-
-0% | INR 810/-
 
 Part-
 
@@ -783,8 +740,6 @@ previous settlements totaling to INR 5,390/- (Rupees Five Thousand Three
 Hundred and Ninety Only) stands abolished from the respective Lqgng-Term
 Settlements. "
 
-a
-*
 
 === PAGE 18 ===
 
@@ -861,46 +816,24 @@ The allocated amount will be divided between two key performance categories:
 
 Part B1: Value stream related Performance pay:
 
-Direct Department Indirect Department
+| **Direct Department**                                                                                                                                                                                                                                                                                          | **Indirect Department**                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A 20% of variable basket amount of **INR 810/-** (Rupees Eight Hundred and Ten Only) will be paid based on overall performance of the value stream, considering operational metrics. Viz. 5S score, Zero Kms' Incidences, Value Stream level productivity, VS level attendance and Internal Defect Cost (IDC). | A 20% of variable basket amount of **INR 810/-** (Rupees Eight Hundred and Ten Only) will be paid based on the Average score of all direct departments together. |
 
-A 20% of variable basket amount of | A 20% of variable basket amount of
-INR 810/- (Rupees Eight Hundred | INR 810/- (Rupees Eight Hundred
-and Ten Only) will be paid based on | and Ten Only) will be paid based on
-overall performance of the value| the Average score of all direct
-stream, considering operational | departments together.
-
-metrics. Viz. 5S score, Zero Kms'
-Incidences, Value Stream level
-productivity, VS level attendance and
-Internal Defect Cost (IDC).
 
 Part B1 of Variable pay shall be effective from the subsequent calendar month
 and shall be basis the actual HWI hours, from the date of signing of the
 settlement.
 
-ax
 
 === PAGE 20 ===
 
 Part B2: Individual Performance Assessment metrics:
 
-Direct Departments Indirect Departments
+| **Direct Departments**                                                                                                                                                                                                                                                                                                                                                                 | **Indirect Departments**                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10% of variable basket amount of **INR 405/-** (Rupees Four Hundred and Five only) will be paid based on the Individual Performance Assessment score assessed on the accomplishment of pre-defined personal parameters. Viz. Knowledge, Skill, Attitude, Results/Involvement, assessed on a quarterly basis.  Payment will be on the basis of actual score obtained in the evaluation. | 10% of variable basket amount of **INR 405/-** (Rupees Four Hundred and Five only) will be paid based on the Individual Performance Assessment score assessed on the accomplishment of pre-defined personal parameters. Viz. Knowledge, Skill, Attitude, Results/Involvement, assessed on a quarterly basis.  Payment will be on the basis of actual score obtained in the evaluation. |
 
-10% of variable basket amount of | 10% of variable basket amount of
-INR 405/- (Rupees Four Hundred | INR 405/- (Rupees Four Hundred and
-and Five only) will be paid based on | Five only) will be paid based on the
-
-the Individual Performance | individual performance assessment
-Assessment score assessed on the | score assessed on the
-accomplishment of pre-defined| accomplishment of predefined
-personal parameters. Viz. | personal parameters. Viz.
-Knowledge, Skill, Attitude, | Knowledge, Skill, Attitude,
-Results/Involvement, assessed on a | Results/Involvement, assessed on a
-quarterly basis. quarterly basis.
-
-Payment will be on the basis of actual | Payment will be on the basis of actual
-
-score obtained in the evaluation. score obtained in the evaluation.
 
 Part B2 of Variable pay shall be effective from the subsequent wage month and
 shall be basis the actual HWI hours, from the date of signing of the settlement.
@@ -960,49 +893,16 @@ implementation after signing of this settlement.
 
 Illustration given in the below table (As an Example).
 
-Eligibility for Fixed amount of IMB+ABP+CPI on ABP
+Present Condition (VS) | Efficiency | Fixed amount | Scenario #1 (Eff, Amt) | Scenario #2 (Eff, Amt) | Scenario #3 (Eff, Amt)
+---------------------------------------------------------------------------------------------------------------
+GP                     | 110        | Eligible     | 100, Eligible          | 115, Eligible          | 101, Eligible
+CBx                    | 116        | Eligible     | 101, Eligible          | 116, Eligible          | 101, Eligible
+CP4                    | 98         | Not eligible | 96, Not eligible       | 98, Not eligible       | 96, Not eligible
+PFCRS                  | 96         | Not eligible | 96, Not eligible       | 96, Not eligible       | 96, Not eligible
+Rail                   | 110        | Eligible     | 106, Eligible          | 106, Eligible          | 106, Eligible
+---------------------------------------------------------------------------------------------------------------
+Average                | 103        |              | 100                    | 106                    | 99
 
-Scenarlo#2
-
-115]Eligible
-
-Present Condition Scenarlo#1 Scenarlo#3
-
-GP
-
-110]Eligible
-
-Efficiency | Fixed amount
-ee a
-
-100| Eligible
-01
-
-Efficiency | Fixed amount
-
-101| Eligible
-101|Eligible
-
-_
-
-Eligible
-|Eligible
-lEtigibie
-100] Eligible
-
-112)Eligible
-98] Eligible
-96] Eligible
-
-101
-
-Not eligible
-
-100
-
-Not eligible
-
-Eligible
 
 === PAGE 22 ===
 
@@ -1050,11 +950,6 @@ to meet the demands of automation and digitization.
 shall be classified based on the operations that he is and willbe performing in
 the department.
 
-<a
-
-ae
-
-20
 
 === PAGE 23 ===
 
@@ -1099,7 +994,7 @@ provided he/she possesses the required skill and knowledge of the process. In
 the absence, whoever has possessed the required skill and knowledge of the
 process shall be moved automatically.
 
-mai
+
 
 === PAGE 24 ===
 
@@ -1114,6 +1009,14 @@ Settlement dated 19.08.1998 shall be applied to this MJV allowance.
 
 In case of person getting repositioned, the MJV allowance will also get revised
 accordingly.
+
+Skill Category     | MJV Allowance (INR/month)
+------------------|---------------------------
+Highly Skilled     | INR 110/-
+Skilled            | INR 102/-
+Medium Skilled     | INR 100/-
+Base Skilled       | INR 80/-
+
 
 * For the purpose of MJV allowance an amount INR.100/- per month shall be
 earmarked from fixed basket amount already agreed upon. This amount does
@@ -1137,9 +1040,6 @@ to qualify for payment of Gratuity, Bonus /AHRA, EPF, Leave wages/Leave
 encashment and Overtime only, as applicable, but does not qualify for Incentive
 payments.
 
-wr
-
-Ze
 
 === PAGE 25 ===
 
@@ -1181,17 +1081,15 @@ balance for every 10 days of Block closure as defined above up to a Maximum
 of 30 days of Block closure per calendar year amounting to a maximum of
 3 days of leave deduction or wage deduction as applicable.
 
-yo
-
-23
+Block Closure Days   | Deduction of Leave/Wages (in Days)
+---------------------|-------------------------------------
+= or > 10 days        | One day leave or one day wage
+= or > 20 days        | Two days leave or two days wage
+= or > 30 days        | Three days leave or three days wage
+> 31 days             | No additional leave/wage deduction
 
 === PAGE 26 ===
 
-Block closure days Deduction of leave /wages in days
-= or > 10 days One day leave or One day wage
-= or > 20 days Two days of leave or two days of wage
-= or > 30 days Three days of leave or three days of wages
->31 days No additional leave days/wages
 
 9. Modified Hospitalization Scheme:
 
@@ -1203,11 +1101,18 @@ treated as one time exception and there shall be no further correction/alteratio
 
 (i) Major Ailment:
 
-0 to 15,000/- by Employee 0 to 10,000/- by employee
+Financial Contribution Responsibility
 
-15,000/- to 75,000/- by Company | 10,001/- to 75,000/- by company
+Existing Policy:
+- ₹0 to ₹15,000/-       → Paid by Employee
+- ₹15,001 to ₹75,000/-  → Paid by Company
+- Above ₹75,000/-       → Paid by Employee
 
-More than 75,000/- by Employee | More than 75,000/- by Employee
+Revised Policy:
+- ₹0 to ₹10,000/-        → Paid by Employee
+- ₹10,001 to ₹75,000/-   → Paid by Company
+- Above ₹75,000/-        → Paid by Employee
+
 
 (ii) Serious Ailment:
 
@@ -1226,7 +1131,6 @@ It is agreed between both the parties that this settlement shall be for a period
 from 01.12.2021 to 31.12.2026. With this, the next settlement.will fall due from
 1st January 2027.
 
-oe
 
 === PAGE 27 ===
 
@@ -1271,13 +1175,6 @@ shall be subject to deduction of income tax as applicable, at source. Further,
 ex-gratia amount will not be applicable for the Un-authorized absence days and
 does not qualify for any other derivatives.
 
-Q
-
-\
-
-tO
-Nn
-
 === PAGE 28 ===
 
 14. General Loan: It is agreed that the existing general loan balance of
@@ -1319,18 +1216,15 @@ directly or indirectly during duration of this settlement.
 
 Itis agreed by and between both the Parties that this settlement shall be signed
 today and the arrears payable and monetary benefits that would be extended
-shall be subject to deduction of income tax as applicable at source and will be
-
-awe
-
-26
-
-=== PAGE 29 ===
-
-disbursed within THREE months from the date of signing of the Settlement,
+shall be subject to deduction of income tax as applicable at source and will be disbursed within THREE months from the date of signing of the Settlement,
 subject to the passing both the parties that they shall sign a Memorandum of
 Settlement (MoS) under Section 18(1) Read with 2(p) of the Industrial Disputes
 Act, 1947 and Rule 59 of the Industrial Disputes (Karnataka) Rules, 1957.
+
+
+
+=== PAGE 29 ===
+
 
 All other terms and conditions of the previous settlements otherwise not
 changed/amended in this settlement shall remain unchanged.

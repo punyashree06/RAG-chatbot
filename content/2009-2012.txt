@@ -23,9 +23,6 @@ Bangalore
 
 === PAGE 3 ===
 
-SN ee FP PP
-
-Sons ee Se S PP
 
 CONTENTS
 
@@ -296,7 +293,6 @@ decided to sign the Memorandum of Settlement, as agreed in the MoU dated
 The terms of the settlement consisting of Part | to Part Ill are as enumerated
 here under;
 
-4
 
 === PAGE 8 ===
 
@@ -352,11 +348,10 @@ and proper adherence to the hours of work.
 Restricted power supply hampers plant production activities. If the
 Company, inspite of the restrictions imposed by the Government in
 
-5
 
 === PAGE 9 ===
 
-10.
+
 
 this regard, is in a position to keep the factory and offices working
 on afl the working days of the week, the workmen agree to co-operate
@@ -413,8 +408,6 @@ a package deal.
 
 === PAGE 10 ===
 
-:
-
 All other rights, privileges and obligations of either party shall
 continue with full force and effect for the duration of this Settlement,
 except to the extent expressly modified under this Settlement.
@@ -465,7 +458,6 @@ amount equivalent to 15% efficiency will be set aside from the
 existing incentive earnings of each workman and will be paid
 henceforth as Incentive Merged Basic (IMB). This amount of IMB as
 
-7
 
 === PAGE 11 ===
 
@@ -519,13 +511,9 @@ average output from the present level by improving team performance
 and also to enhance the earning levels of the workmen and thereby,
 motivating workmen towards achieving higher production. The new
 
-8
+
 
 === PAGE 12 ===
-
-a)
-
-b)
 
 proposal is designed to improve machine hour utilization, to foster
 improved performance, achieve year on year improvement in
@@ -575,11 +563,17 @@ cost centre level, as detailed below:
 
 === PAGE 13 ===
 
-Applicable to Workmen in Rs. / Saved Hour
+| Cost Centre Efficiency Improvement | Additional Incentive Rate (₹) |
+|-----------------------------------|-------------------------------|
+|                                   | 2010   | 2011   | 2012       |
+| Reference efficiency + <5%        | —      | —      | —          |
+| Reference efficiency + 5 to 9%    | 1.00   | 1.00   | 1.00       |
+| Reference efficiency + 10 to 14%  | 1.50   | 1.50   | 1.50       |
+| Reference efficiency + 15 to 19%  | 2.50   | 2.50   | 2.50       |
+| Reference efficiency + 20 to 24%  | 3.00   | 3.25   | 3.25       |
+| Reference efficiency + 25 to 29%  | 3.50   | 3.75   | 3.75       |
+| Reference efficiency + ≥30%       | 4.00   | 4.25   | 4.50       |
 
-Direct areas
-i ee |} 2010 |
-ee ac
 
 For Studied VT areas, to derive the improvement in efficiency, a factor of 2
 will be considered and additional incentive rate wil! be as above table.
@@ -617,7 +611,6 @@ for a Product or a defined Value Stream.
 Example: PE pumps /man/shift, Elements /man/shift, DVs /man/
 shift etc.,
 
-10
 
 === PAGE 14 ===
 
@@ -626,35 +619,18 @@ improvement over the defined Reference Quantity/man/shift
 measured at Product-wise or Value Stream, as the case may be and
 rewarded as detailed below:
 
-PLP Rate Table
+| Reference Quantity Improvement     | 2010 (₹/month) | 2011 (₹/month) | 2012 (₹/month) |
+|-----------------------------------|----------------|----------------|----------------|
+| < +2.5%                           | 0              | 0              | 0              |
+| +2.5% to +4.99%                   | 50             | 50             | 50             |
+| +5.0% to +7.49%                   | 100            | 100            | 100            |
+| +7.5% to +9.99%                   | 400            | 500            | 600            |
+| +10.0% to +12.49%                 | 750            | 800            | 900            |
+| +12.5% to +14.99%                 | 800            | 900            | 950            |
+| +15.0% to +17.49%                 | 850            | 1,000          | 1,100          |
+| +17.5% to +19.99%                 | 900            | 1,200          | 1,250          |
+| > +20%                            | 950            | 1,200          | 1,350          |
 
-Additional Amount
-(Rs.p.m.)
-
-2011
-
-Improvement in % of OK Quantity
-man/shift delivered to Finished Goods
-Stores (Product-wise or Value Stream)
-
-Reference Quantiyr<25% LO
-:
-i
-
-to
-CS
-reat
-o
-
-0 | 50 _|
-100
-Reference Quantity + 10.0-12.49% 800
-Reference Quantity + 12.5-14.99% | 950 |
-
-Reference Quantity + 15.0-17.49% | 850 | 1,000 | 1,100
-Reference Quantity + 17.5-19.99% | 900 | 1,100 | 1,200
-
-Reference Quantity + >20% 1,200 1,350
 
 For Studied VT areas, to derive the improvement in Quantity, a factor
 of 2 will be considered and PLP amount will be same as above.
@@ -736,8 +712,6 @@ it has been agreed between the parties that towards motivating
 workmen to achieve higher man hour utilization and achieve
 increased output within the shift working hours and to give an
 
-12
-
 === PAGE 16 ===
 
 opportunity for workmen to earn more by producing more, Additional
@@ -755,18 +729,22 @@ Applicable only for those workmen on the rolls of DPS shops.
 
 Rs. / Hour
 
-Increase in
-PlatCC
-/
-Lewel Rs/Hour
+| Increase in PI at CC Level | Rate (₹/Hour) |
+|----------------------------|----------------|
+| ≤ 3                        | 0.00           |
+| 4 – 7                      | 2.50           |
+| 8 – 11                     | 3.50           |
+| 12 – 15                    | 4.50           |
+| 16 – 20                    | 6.00           |
+| 21 – 25                    | 7.50           |
+| 26 – 30                    | 9.50           |
+| 31 – 35                    | 11.50          |
+| 36 – 40                    | 12.00          |
+| 41 – 50                    | 12.50          |
+| 51 – 60                    | 13.00          |
+| 61 – 70                    | 13.50          |
+| > 70                       | 14.00          |
 
-300]
-450
-
-P40
-6-20 | 6.00
-36 40
-4160
 
 The above Cost Centre rate is applicable for DPS payment %
 only which is linked to Pl, considering improvement of Revised
@@ -779,17 +757,16 @@ basis.
 To accommodate IMB of 15%, Performance Index will be reduced
 by 36 in line with direct area
 
-13
 
 === PAGE 17 ===
 
 Example:
 
-Current Perfomance Index (PI) Revised P}
-204 168
-186 150
-166 130
-111 75
+Current Perfomance Index (PI)           Revised PI
+204                                          168
+186                                          150
+166                                          130
+111                                          75
 
 IMB : Amount equivalent to 15% of Efficiency calculated on the
 personal grade of each workman will be added into All Inclusive
@@ -873,45 +850,19 @@ for MRE.
 
 incentive rates for MRE are as follows :
 
-Monthly Rate (MR)
-category
+| Monthly Rate (MR) Category | Equivalent Hourly Rated Wage Category |
+|----------------------------|----------------------------------------|
+| MC1                        | G04                                    |
+| MC2                        | G05                                    |
+| MC3                        | G06                                    |
+| MC4                        | G08                                    |
+| MC5                        | G09                                    |
+| MC6                        | G10                                    |
+| MT1                        | G07                                    |
+| MT2                        | G08                                    |
+| MT3                        | G09                                    |
+| MT4                        | G10                                    |
 
-Rate equivalent to Hourly rated
-wage category
-
-oO
-ays
-
-fo)
-
-GO6
-ie)
-ie)
-
-Q
-
-a
-O};0O;}o
-
-Q
-o
-
-ie)
-0
-Gog
-Gio
-
-~~
-
-45
-
-=== PAGE 19 ===
-
-10
-
-11
-
-12
 
 INCREASE IN HOURLY RATE OF INCENTIVE
 
@@ -924,18 +875,19 @@ applicable to personal/ individual /job grade.
 The Hourly Rate of incentive per Saved Hour shall stand revised as
 below;
 
-Grade | Existing Incentive — in Revised Incentive
-Rate in Rs. (2010) Rate in Rs.
+| Grade | Existing Incentive Rate (₹) | Increase (₹) | Revised Incentive Rate (₹) |
+|-------|------------------------------|--------------|-----------------------------|
+| G01   | 55.80                        | 5.00         | 60.80                       |
+| G02   | 56.06                        | 5.00         | 61.06                       |
+| G03   | 56.76                        | 5.00         | 61.76                       |
+| G04   | 56.84                        | 5.00         | 61.84                       |
+| G05   | 57.20                        | 5.00         | 62.20                       |
+| G06   | 58.70                        | 5.00         | 63.70                       |
+| G07   | 58.71                        | 5.00         | 63.71                       |
+| G08   | 59.00                        | 5.00         | 64.00                       |
+| G09   | 59.90                        | 5.00         | 64.90                       |
+| G10   | 60.68                        | 5.00         | 65.68                       |
 
-Gor | 55.80
-Gco2 | 56.06
-Gos a
-Goa
-
-G05 57.20 a a 62.20
-<4 65.68
-
-60.68
 Job Grade
 
 All revised Incentive Schemes and Additional Incentive Rates will be
@@ -959,17 +911,7 @@ With effect from 01.01.2009, permanent workmen who are on the
 rolls of the Company as on the date of the Settlement, shall be paid
 Education Subsidy at the rate of Rs.750/- (Rupees Seven Hundred
 
-16
-
 === PAGE 20 ===
-
-13
-
-14
-
-i5
-
-16
 
 and Fifty Only) per month instead of the existing Rs.300/- (Rupees
 Three Hundred Only) per month. The practice of pro-rating of the
@@ -977,6 +919,7 @@ allowance shall continue as per Clause 11, Part Il, of Settlement
 dated 19.08.1998.
 
 All other terms and conditions shail remain unchanged.
+
 CONVEYANCE ALLOWANCE
 
 With effect from 01.01.2009, all workmen who are on rolls of the
@@ -1020,19 +963,8 @@ will be paid Night Shift Allowance caiculated at the rate of Rs.100/-
 per attended Night Shift instead of @ Rs.50/- per attended night
 shift as at present.
 
-17
 
 === PAGE 21 ===
-
-17
-
-18
-
-19
-
-20
-
-21
 
 SPECIAL ALLOWANCE
 
@@ -1077,30 +1009,18 @@ completion of the continuous years of service as prescribed shall
 be paid Service Award at the revised rate as applicable to him/her
 on the date of completion:
 
-18
-
 === PAGE 22 ===
 
-EXISTING Benefit REVISED Benefit
-10 YEARS Rs.2,500/- (lump sum amount) Rs.3,000/- (Jump sum amount
+| Years of Service | Existing Benefit                | Revised Benefit                  |
+|------------------|----------------------------------|----------------------------------|
+| 10 Years         | ₹2,500 (lump sum)               | ₹3,000 (lump sum)               |
+| 15 Years         | ₹4,000 (lump sum)               | ₹5,000 (lump sum)               |
+| 20 Years         | 1 month of all-inclusive salary | 1.25 months of all-inclusive salary |
+| 25 Years         | 1.5 months                      | 1.75 months                     |
+| 30 Years         | 2 months                        | 2.25 months                     |
+| 35 Years         | 2.5 months                      | 2.75 months                     |
+| 40 Years         | 3 months                        | 3 months                        |
 
-15 YEARS Rs.4,000/- Rs.5,000/-
-(lump sum amount) (lump sum amount)
-
-20 YEARS 1 month all inclusive 1.25 month’s all
-salary/wage inclusive salary/wage
-
-25 YEARS 1.5 month all inclusive 1.75 month’s all
-salary/wage inclusive salary/wage
-
-30 YEARS 2 month’s all inclusive 2.25 month’s all
-salary/wage inclusive salary/wage
-
-35 YEARS 2.5 month’s all inclusive 2.75 month’s all
-salary/wage inclusive salary/wage
-
-40 YEARS 3 month’s all inclusive 3 month’s all
-salary/wage inclusive salary/wage
 
 22 EX-GRATIA ON SUPERANNUATION
 
@@ -1185,8 +1105,6 @@ in outpatient department are not payable even if converted to
 day care surgery / procedure or as inpatient in the hospital for
 more than 24 hrs.
 
-20
-
 === PAGE 24 ===
 
 d Serious Ailments
@@ -1197,19 +1115,13 @@ Hospitalization scheme.
 
 Payment pattern
 
-Amount (Rs.)
-[Fen [re
+| Amount (₹)             | Mode                                                                                      |
+|------------------------|-------------------------------------------------------------------------------------------|
+| 0 to 1,50,000          | Bills will be scrutinized by MED and settled directly by Company                         |
+| 1,50,001 to 5,00,000*  | Bills will be scrutinized by MED and recommended for further scrutiny by the Committee,  |
+|                        | and approval by BanP/PM, as mentioned in Point 23.c above                                 |
 
-1,50,000 Bills will be scrutinized by MED
-and settled directly by Company
-
-1,50,001 5,00,000* Bills will be scrutinized by MED
-and recommended for further
-scrutiny by the Committee and
-approval by BanP/PM, as
-mentioned in Point 23.c above.
-
-e Major Ailments
+e. Major Ailments
 
 Major ailments other than those covered under Serious Ailments
 category, needing Hospitalization, as already specified in the existing
@@ -1217,30 +1129,17 @@ Manipal Hospitalization scheme.
 
 Administration
 
-[Amount (Rs.) areas) ) oe
-From
-(Aon Jo Company Bills will be scrutinized by
-MED and settled directly by
-Company
+| Amount (₹)             | Payment By | Mode                                                                                      |
+|------------------------|------------|-------------------------------------------------------------------------------------------|
+| 0 to 75,000            | Company    | Bills will be scrutinized by MED and settled directly by Company                         |
+| 75,001 to 1,50,000*    | Company    | Bills will be scrutinized by MED and recommended for further scrutiny by the Committee,  |
+|                        |            | and approval by BanP/PM, as mentioned in Point 23.c above                                 |
 
-75,001 1,50,000* Bills will be scrutinized by
-
-MED and recommended for
-further scrutiny by the
-Committee and approval by
-* Cases of hospitalization exceeding these limits for Serious and
-Major ailments will be taken care of through a contingency amount,
-generated from the revised hospitalization scheme.
-
-BanP/PM, as mentioned in
-Point 23.c above.
 
 Hospitalization cases of Maternity (normal delivery) will be
 considered as per the current practice in MCBF. Cataract cases will
 be admissible only in identified specialist Eye Hospitals mentioned
 above.
-
-21
 
 === PAGE 25 ===
 

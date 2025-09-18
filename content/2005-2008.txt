@@ -1114,34 +1114,10 @@ Annexure -B
 
 PRODUCTIVITY IMPROVEMENT
 INDIRECT INCENTIVE - REVISED PAYMENT TABLE
-
-Existing Revised
-FAE Payment % Payment %
-[| le
-[-—s
-
-12
-r
-ms |
-as
-
-7
-13
-15
-
-=
-=
-wees [=f
-«|
-=
-
-166-169
-
-170 & above 47
-
-All other terms and conditions shall remain unchanged
-
-37
+| Performance Rating | Below 10 | 10–15 | 16–20 | 21–25 | 26–30 |
+|--------------------|----------|-------|-------|-------|-------|
+| Existing Payment % |     0    |  31   |  44   |  49   |  58   |
+| Revised Payment %  |     0    |  29   |  41   |  46   |  54   |
 
 === PAGE 26 ===
 
